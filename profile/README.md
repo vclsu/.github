@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace this with a laboratory banner later -->
-<!-- <img src="./assets/vcl-banner.png" width="100%" alt="Visual Computing Laboratory"> -->
+<img src="./assets/vcl-banner.png" width="100%" alt="Visual Computing Laboratory">
 
 # Visual Computing Laboratory
 
